@@ -64,4 +64,4 @@ buck-out/
 /vendor/bundle/
 
 # Ignorar api_key.txt
-.txt
+api_key.txt
